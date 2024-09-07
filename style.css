@@ -220,7 +220,7 @@
   @media(max-width:817px)
   {
     #projects h1{
-        font-size: 35px;
+        font-size: 5vw;
     } 
     .project-main{
         flex-wrap: wrap;
@@ -371,7 +371,7 @@
         color: white;
     }
     .contact-text h1{
-        color: white;
+        color: rgb(9, 8, 8);
     }
 
 }
